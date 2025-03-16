@@ -11,6 +11,7 @@ export default function Index() {
                 alignItems: "center"
             }}
         >
+            <Text className="font-bold text-lg my-10">Real Estate</Text>
             <Link href="/sign-in">
                 <SignIn />
             </Link>
